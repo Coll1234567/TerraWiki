@@ -25,9 +25,9 @@ When putting your addon on this page, include:
   Platforms: All    
   [Source Code](https://github.com/dfsek/TerraFractalTrees/)
 * **NMSAddon**   
-  Uses internal server code to bypass some limitations of the API, allowing functionality from other
+  Uses internal server code to bypass some limitations of the API, allowing functionality from other   
   platforms on Spigot/Paper.  
-  Platforms: Bukkit Only
+  Platforms: Bukkit Only   
   [Spigot Page](https://www.spigotmc.org/resources/terra-nmsaddon.93663/) |
   [Source Code](https://github.com/Coll1234567/NMSAddon)
 * **NMS Addon (*Incomplete*)**   
